@@ -1,0 +1,402 @@
+@media (min-width: 768px)
+.navbar-expand-md {
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.navbar{
+
+	background-color: #2d2f46!important;
+}
+
+body{
+
+	background-color: #2b253d!important;
+}
+
+
+.row{
+
+	width: 100%;
+}
+
+.logo{
+
+	margin: 5px;
+}
+
+.topposbtn{
+
+	background-color: gray;
+	color: white;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: gray;
+	width: 80px;
+}
+
+@media (max-width: 600px){
+.topbarcol{
+
+	margin-top: 30px;
+}
+
+.topposbtn{
+
+	
+	margin-bottom: 15px;
+}
+
+
+}
+
+
+@media (min-width: 1160px){
+
+.logo{
+
+	
+	margin-right:  0;
+}
+
+.topposbtn{
+
+	
+	margin-right:  -50px;
+
+	background-color: #ac6ae0!important;
+	width: 250px;
+}
+
+
+}
+
+.topbar1{
+
+	background-color: black;
+}
+
+
+.card-footer{
+
+	
+	border-radius: 20px!important;
+	height: 45px;
+	
+
+
+}
+
+.card-footer:hover{
+
+	background-color: #510a8a!important;
+	border-color: #510a8a!important;
+
+
+}
+
+.bg-purple{
+
+	background-color: #ac6ae0;
+	border-style: solid;
+	border-color: #ac6ae0;
+}
+
+.card{
+
+	border-radius: 20px 20px 20px 20px;
+	
+}
+
+.innerrow{
+
+	margin: auto;
+	margin-top: 15px!important;
+	margin-bottom: 10px!important;
+}
+
+.row{
+
+	margin: auto;
+}
+
+@media only screen and (max-width: 767px) {
+
+	.card{
+
+	border-radius: 20px 20px 20px 20px;
+	margin-top: 14px;
+	
+}
+
+
+	}
+
+.spacerbyhasan{
+
+	margin: 30px;
+}
+
+
+
+
+tr:hover{
+
+	cursor: pointer;
+}
+
+.row1{
+
+	margin-bottom: 5px;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 600;
+    color: white;
+}
+
+.navbar{
+
+	border-style: solid!important;
+	border-width: 1px 0px 1px 0px!important;
+	border-color: #208ede;
+
+}
+
+
+.table td, .table th {
+    padding: .30rem!important;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+.card2{
+
+	max-height: 390px!important;
+}
+
+.smallcard{
+
+	max-height: 290px!important;
+}
+
+.rowbottom{
+
+	margin-bottom: 14px;
+}
+
+.chart{
+
+	display: none;
+}
+
+.rowmargin{
+
+	margin: 40px;
+}
+
+.card3{
+
+	width: 100%!important;
+}
+
+.rowmargin2{
+
+	margin: auto;
+}
+
+@media only screen and (min-width: 1060px){
+
+.homerow5{
+
+	margin-left: 300px; 
+
+	margin-right: 300px; 
+
+	margin-top: -20px
+}
+
+
+}
+
+@media only screen and (max-width: 1059px){
+
+.homerow5{
+
+	margin: 40px; 
+
+	
+
+	margin-top: -20px
+}
+
+
+}
+
+label{
+
+	color: white!important;
+}
+
+
+.subcol{
+
+	display: none;
+}
+
+.pageheading{
+
+	color: white!important;
+}
+
+.formbtn{
+
+	background-color: #ac6ae0;
+	border-radius: 20px;
+	border-style: solid;
+	box-shadow: 0 0px 26px -6px rgba(0, 0, 0, 0.38);
+	border-color: #ac6ae0;
+	
+
+
+
+	width: 280px;
+    height: 60px;
+    color: white;
+    font-size: 28px;
+}
+
+
+
+.alertstockcol{
+
+	display: none;
+}
+
+.formbtn2{
+
+	margin: 5px;
+}
+
+.searchform{
+
+	width: 100%; 
+	height: 50px; 
+	padding: 10px;
+	border-style: solid;
+	border-color: #ac6ae0
+}
+
+ 
+
+.viewcard{
+
+	background-color: white!important;
+	box-shadow: 0 0px 26px -6px rgba(0, 0, 0, 0.38);
+	padding: 15px;
+	border-color: white;
+	border-radius: 20px;
+
+}
+
+
+
+.viewpagebtn{
+
+	font-size: 24px!important;
+}
+
+#acAdder0{
+
+	height: 40px;
+    margin-top: 30px;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    font-weight: 600;
+    color: white;
+    margin: 20px!important;
+}
+
+.formbtn:hover{
+
+	cursor: pointer;
+
+}
+
+
+@media only screen and (min-width: 700px){
+.fixedcard{
+
+	
+	width: 100%;
+}
+
+}
+
+
+.headingwhite{
+
+	color: white!important;
+}
+
+@media only screen and (min-width: 990px){
+.stickycart{
+
+	width: 30%!important;
+	position: fixed!important;
+}
+}
+
+.reportcard{
+
+	background-color: #ac6ae0!important;
+}
+
+.fontwhite{
+
+	color: white!important;
+}
+
+
+
+
+/*dropdown css */
+
+
+ .select2-container .select2-selection--single {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: 38px!important;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 38px!important;
+}
+
+
+/* ending dropdown css */
+
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: .25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+    font-size: 20px!important;
+}
